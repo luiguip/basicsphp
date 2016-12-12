@@ -1,4 +1,4 @@
 <?php
   $var = 12;
-  echo "var = $var";
+  echo "\$var = $var";
 ?>
